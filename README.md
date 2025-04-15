@@ -1,2 +1,2 @@
-# huy_tests
-huuuuuuuu
+# auto_tests
+Буду тут хранить файлы с курса
